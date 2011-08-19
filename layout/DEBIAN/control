@@ -1,0 +1,9 @@
+Package: com.conradkramer.bonjourtoggle
+Name: Bonjour Toggle
+Depends: sbsettings
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Toggles Bonjour broadcasting.
+Maintainer: Conrad Kramer <ckrames1234+support@gmail.com>
+Author: Conrad Kramer <ckrames1234+support@gmail.com>
+Section: Addons (SBSettings)
