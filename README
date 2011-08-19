@@ -1,1 +1,3 @@
 An SBSettings toggle to toggle multicast DNS broadcasting on iOS.
+
+It is based on this: http://support.apple.com/kb/HT3789
